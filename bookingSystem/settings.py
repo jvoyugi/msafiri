@@ -25,7 +25,7 @@ SECRET_KEY = '7kzj3k$t1)e*l)!x%(ytqyt(=i)i_^)s$sqbb44idjh#glamu3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['msafiri-pass.herokuapp.com']
 
 
 # Application definition
