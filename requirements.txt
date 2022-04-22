@@ -1,5 +1,5 @@
 autopep8==1.4.4
-Django==2.2.1
+Django==2.2.28
 django-ajax-views==0.0.2
 django-appconf==1.0.3
 django-autocomplete-light==2.3.3
